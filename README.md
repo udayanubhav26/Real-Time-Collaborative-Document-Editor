@@ -32,13 +32,12 @@ Overall, both the Online Learning Platform and the Real-Time Collaborative Docum
 
 *OUTPUT:-*
 
-![Image](https://github.com/user-attachments/assets/df1ed725-d238-4df0-9d49-47ade79a0808)
+![Image](https://github.com/user-attachments/assets/63679651-0555-4e70-a611-ee9ce591b532)
 
-![Image](https://github.com/user-attachments/assets/efab9779-d23a-42bb-accc-4bf8a84e2f3d)
+![Image](https://github.com/user-attachments/assets/974db0dc-e878-44d2-ac38-f2f50bd8ba56)
 
-![Image](https://github.com/user-attachments/assets/74871d55-fbb6-4a9d-86d3-d8b2c6ef0af1)
+![Image](https://github.com/user-attachments/assets/4bec37f2-98bb-4a97-9a93-d8992f7adf49)
 
-![Image](https://github.com/user-attachments/assets/d4c57a4e-c758-4cbb-b73f-fcfdf0a468a6)
-
+![Image](https://github.com/user-attachments/assets/0aea7055-4cf4-4c6d-b168-1ba8b91a5d0a)
 
 
