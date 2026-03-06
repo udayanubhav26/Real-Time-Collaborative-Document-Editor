@@ -1,16 +1,44 @@
-# React + Vite
+# REAL TIME COLLABORATIVE DOCUMENT EDITOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## NAME
+**Anubhav Sharma**
 
-Currently, two official plugins are available:
+## COMPANY
+**Codetech IT Solutions**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## INTERVIEW ID
+**CTIS5882**
 
-## React Compiler
+## DOMAIN
+**Web Development**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## DURATION
+**4 Weeks**
 
-## Expanding the ESLint configuration
+## MENTOR
+**Neela Santosh**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Description :-*
+
+The Real-Time Collaborative Document Editor is a tool I built to enable multiple users to work on the same document simultaneously, making collaboration seamless and efficient. Inspired by tools like Google Docs, the editor allows users to create, edit, and share documents in real-time without worrying about version conflicts or delays.
+
+The core technology behind this is WebSocket-based real-time communication, which ensures that changes made by one user are instantly visible to all other collaborators. This creates a smooth and dynamic editing experience where everyone stays in sync. Users can add text, format it, and see updates from their team members live, which is ideal for group projects, team brainstorming, and collaborative content creation.
+
+One of the main challenges I addressed was handling simultaneous edits. Using conflict-resolution strategies, the editor intelligently merges changes to prevent overwriting and ensures the document remains consistent for all users. Each user’s cursor position and text selection are highlighted differently, so it’s clear who is editing which part of the document.
+
+To enhance productivity, the editor also supports features like saving document history, sharing links for collaboration, and secure authentication, ensuring that only authorized users can access or modify a document. With this, teams can work together from anywhere in the world, making remote collaboration just as effective as working in the same room.
+
+Overall, both the Online Learning Platform and the Real-Time Collaborative Document Editor showcase my focus on building interactive, user-friendly, and scalable web applications that solve real-world problems and enhance digital experiences for users.
+
+*OUTPUT:-*
+
+![Image](https://github.com/user-attachments/assets/df1ed725-d238-4df0-9d49-47ade79a0808)
+
+![Image](https://github.com/user-attachments/assets/efab9779-d23a-42bb-accc-4bf8a84e2f3d)
+
+![Image](https://github.com/user-attachments/assets/74871d55-fbb6-4a9d-86d3-d8b2c6ef0af1)
+
+![Image](https://github.com/user-attachments/assets/d4c57a4e-c758-4cbb-b73f-fcfdf0a468a6)
+
+
+
