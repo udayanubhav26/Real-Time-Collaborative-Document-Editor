@@ -38,6 +38,6 @@ Overall, both the Online Learning Platform and the Real-Time Collaborative Docum
 
 ![Image](https://github.com/user-attachments/assets/4bec37f2-98bb-4a97-9a93-d8992f7adf49)
 
-![Image](https://github.com/user-attachments/assets/d3ac3118-a849-4e4a-87f4-964ea0d232be)
+![Image](https://github.com/user-attachments/assets/c662de41-de8b-4917-879e-361e2196a7e1)
 
 
