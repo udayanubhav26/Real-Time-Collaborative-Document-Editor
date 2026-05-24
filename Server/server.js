@@ -21,7 +21,7 @@ function startServer() {
 
     const io = require('socket.io')(PORT, {
         cors: {
-            origin: 'https://real-time-collaborative-document-ed.vercel.app/',
+            origin: 'https://real-time-collaborative-document-ed.vercel.app',
             methods: ['GET', 'POST'],
         },
     })
