@@ -51,7 +51,7 @@ export default function TextEditor() {
   const [quill , setQuill] = useState()      //for connecting
 
   useEffect(() => {
-    const s = io("http://localhost:3001")  //to connect to server
+    const s = io("https://real-time-collaborative-document-editor-6gy9.onrender.com")  //to connect to server
     setSocket(s)
 
     return () => {
