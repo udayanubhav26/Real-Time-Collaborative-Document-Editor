@@ -14,7 +14,8 @@ function App() {
 
         <Route
           path="/"
-          element={<Navigate to={`/documents/${uuidV4()}`} />}
+          element={<Navigate to={`/documents/room`} />}
+          //${uuidV4()}
         />
 
         <Route
