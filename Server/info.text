@@ -1,0 +1,9 @@
+npm i socket.io
+
+npm i socket.io-client
+
+npm i --save-dev nodemon
+
+npm run devStart
+
+npm i mongoos
